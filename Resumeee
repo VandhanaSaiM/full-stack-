@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title > Resume </title>
+    </head>
+    <body >
+        <h1>Name:</h1> <p>Vandhana Sai Murugan</p>
+        <img src="profil.jpeg" alt="Profile">
+        <h3>D.O.B:</h3> <p>17.03.2005</p>
+        <h4>Phone Number:</h4> <p>6380691092</p>
+        <form>
+        <label for ="address">Professional Address:</label> <p>Saraswati nagar,TVT, Chennai-19</p>
+        </form>
+
+        <h4>Interest in</h4> <p>Cyber hacker - Currently pursuing training to develop my skills for secure system design</p>
+        
+        <h3>Skills</h3>
+        <ul>
+            <li>Python developer</li>
+            <li>Java</li>
+            <li>Html</li>
+            <li>Excel</li>
+        </ul>
+        
+        
+        <h3>Education:</h3>
+        <ol>
+            <li>I'm Currently college student in KCS Kasi nadar college of Arts & science </li>
+            <li>I Completed my Higher Secondary in Vellayan Chettiyar Higher Secondary School</li>
+            <li>I Completd my SSLC in Venus high School</li>
+        </ol>
+        
+        <h5>Certificate</h5>
+     <a href=" Solo learn HTML certificate.jpg">html</a>
+        <br>
+       <a href="https://api2.sololearn.com/v2/certificates/CC-VDLWSBLM/image/png?t=638806805058646560 ">java</a>
+        
+        <h5>Project</h5>
+        <a href ="http://localhost:8080/Exam%20seating%20Arrangement.html">Exam Seating arrangement</a>
+        
+    </body>
+</html>
